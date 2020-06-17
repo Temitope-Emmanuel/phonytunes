@@ -1,4 +1,4 @@
-# Next.js and Auth0 Example
+# phonystore
 
 This example shows how you can use `@auth0/nextjs-auth` to easily add authentication support to your Next.js application.
 
